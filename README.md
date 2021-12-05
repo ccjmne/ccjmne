@@ -1,8 +1,6 @@
-### Hi there 👋
+![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ccjmne&margin-h=5&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=false&theme=nord&no-frame=true)
 
 <!--
-**ccjmne/ccjmne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
