@@ -1,4 +1,4 @@
-Take a look at [my resume](https://ccjmne.github.io/ccjmne-resume).
+Here's my [one-page resume](https://ccjmne.github.io/ccjmne-resume)!
 
 ![My GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ccjmne&margin-h=5&margin-w=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B&no-bg=false&theme=nord&no-frame=true)
 
