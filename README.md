@@ -1,4 +1,4 @@
-Here's my [programmatically generated resume](https://ccjmne.github.io/resume).  
+Here's my [programmatically generated](https://github.com/ccjmne/resume#readme) [resume](https://ccjmne.github.io/resume).  
 
 And my [dotfiles](https://github.com/ccjmne/dotfiles2025),  
 and my [Neovim config](https://github.com/ccjmne/nvim),  
